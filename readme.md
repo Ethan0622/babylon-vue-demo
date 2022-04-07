@@ -1,4 +1,4 @@
-## vivu-npm
+## babylon-vue-demo
 
 > package babylon.js into vue component demo
 
