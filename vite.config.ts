@@ -12,7 +12,7 @@ export default defineConfig(({ mode }) => {
     build = {
       lib: {
         entry: resolve(__dirname, 'src/index.ts'),
-        name: 'vivu-npm',
+        name: 'babylon-vue-demo',
         fileName: 'index',
         formats: ['es', 'cjs', 'umd'],
       },

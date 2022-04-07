@@ -1,21 +1,18 @@
 {
-  "name": "@logustra/vivu-npm",
+  "name": "babylon-vue-demo",
   "version": "0.1.2",
-  "description": "Starter template to build component library for vue.js 2-3",
+  "description": "package babylon.js into vue component demo",
   "keywords": [
-    "starter",
-    "boilerplate",
-    "vue",
+    "demo",
     "vue3",
-    "component",
-    "ui",
-    "frontend"
+    "babylon.js",
+    "component"
   ],
   "license": "MIT",
-  "author": "Faizal Andyka",
+  "author": "Ethan0622",
   "repository": {
     "type": "git",
-    "url": "https://github.com/logustra/vivu-npm"
+    "url": "https://github.com/Ethan0622/babylon-vue-demo"
   },
   "main": "./dist/index.cjs.js",
   "module": "./dist/index.esm.js",
@@ -31,7 +28,7 @@
   "files": [
     "dist"
   ],
-  "bugs": "https://github.com/logustra/vivu-npm/issues",
+  "bugs": "https://github.com/Ethan0622/babylon-vue-demo/issues",
   "scripts": {
     "prepare": "husky install",
     "clean:dist": "rimraf dist",
